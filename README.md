@@ -2,7 +2,7 @@
 
 * This is a Scheduler for your day!
 
-* It uses ONLY jquery
+* It uses jquery
 
 * When you type something into the input box, it saves into local storage
 
